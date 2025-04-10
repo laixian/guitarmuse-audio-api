@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python音频分析API
 
 本项目是一个基于FastAPI的Python音频分析API，使用librosa库进行音频特征提取，并结合大型语言模型(LLM)进行高级音乐结构分析。
@@ -218,3 +219,6 @@ async function analyzeAudio(file, key = null) {
 ## 许可证
 
 MIT 
+=======
+# guitarmuse-audio-api
+>>>>>>> c6cd094ec32ca5908a49a471c210d60fae67bd70
